@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-xh-rules",
+  "version": "1.0.9",
+  "description": "",
+  "main": "./lib/eslint.js",
+  "exports": "./lib/eslint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/eslint-parser": "^7.19.1",
+    "@vue/eslint-config-prettier": "^7.0.0",
+    "eslint": "^8.33.0",
+    "eslint-plugin-vue": "^9.8.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-prettier": "^4.2.1"
+  },
+  "devDependencies": {
+  
+  },
+  "peerDependencies": {
+    "eslint": ">=7"
+  }
+}
