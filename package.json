@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-xh-rules",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "",
   "main": "./lib/eslint.js",
   "exports": "./lib/eslint.js",
@@ -19,9 +19,7 @@
     "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-prettier": "^4.2.1"
   },
-  "devDependencies": {
-  
-  },
+  "devDependencies": {},
   "peerDependencies": {
     "eslint": ">=7"
   }
